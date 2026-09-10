@@ -44,8 +44,6 @@ That's it — the app runs entirely client-side.
 - Every change (add, edit, delete, toggle) updates that array, saves it to `localStorage`, and re-renders the list from scratch.
 - Filters simply change which subset of the array gets rendered — the underlying data is untouched.
 
-*Want a deeper walkthrough of the code? See `how-i-built-this.md`.*
-
 ## Browser Support
 
 Works in any modern browser with `localStorage` support (Chrome, Firefox, Safari, Edge).
