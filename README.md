@@ -48,6 +48,6 @@ That's it — the app runs entirely client-side.
 
 Works in any modern browser with `localStorage` support (Chrome, Firefox, Safari, Edge).
 
-## License
+## Licence
 
 Free to use and modify.
